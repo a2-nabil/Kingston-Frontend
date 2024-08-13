@@ -1,0 +1,27 @@
+/*# Global Css Start  */
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+:root {
+  --a2n-primary-color: #00C1EB;
+  --a2n-secondary-color: #0e1c41;
+  --a2n-text-color: #394630;
+  --a2n-white: #ffffff;
+  --a2n-bg-color: #ecf9ff;
+  --a2n-primary-font: "DM Sans", Sans-serif;
+  --a2n-secondary-font: "Manrope", Sans-serif;
+}
